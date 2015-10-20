@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bookser</string>
+    <string name="scan">Scan</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bar_scanner">barScanner</string>
+    <string name="getDetails">Get Details</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="thumb">Hello world!</string>
+    <string name="seeUI">See UI</string>
+    <string name="title_activity_bookser_ui">bookserUI</string>
+    <string name="hp3">"Harry Potter"</string>
+    <string name="perAge">"30th October, 1992"</string>
+</resources>
